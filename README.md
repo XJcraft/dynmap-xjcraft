@@ -1,0 +1,3 @@
+#dynmap-xjcraft
+
+将xjcraft审核插件里的玩家基地和家的坐标标记在dynmap上

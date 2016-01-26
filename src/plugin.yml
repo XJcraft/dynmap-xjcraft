@@ -1,0 +1,6 @@
+name: dynmap-xjcraft
+main: org.jim.xj.dynmap.DynmapXJPlugin
+version: 1.0.1
+author: jim_
+depend: [ dynmap, XJCraftAudit ]
+
